@@ -1,0 +1,2 @@
+aqi api_key 0b9c885301f9cf107e53efd85c818ba6af99b23e
+weather api_key e2b9af1dba1fa3144dbd2a57641c79f2
